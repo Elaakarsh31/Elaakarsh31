@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elaakarsh31
 - 👀 I’m interested in Machine Learning and backend development
-- 🌱 I’m currently in Btech CSE 2nd year
+- 🌱 I’m currently in Btech CSE 3rd year
 - 💞️ I’m looking to collaborate on real life projects and hackathons
 - 📫 You can reach me on mail: aakarshverma330@gmail.com or whatsapp: 9958912042
 
