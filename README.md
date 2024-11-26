@@ -1,6 +1,6 @@
 # 👋 Hi there! Welcome to my GitHub Profile!
 
-I'm a **Master’s in Artificial Intelligence** student at Northeastern University, Boston, with a passion for solving real-world problems using **Machine Learning (ML)**, **Deep Learning**, and **Natural Language Processing (NLP)**. My goal is to create impactful solutions as an **ML Engineer**, **MLOps Engineer**, or **Computer Vision Specialist**, combining my technical expertise and research-driven mindset.
+I'm a **Master’s in Artificial Intelligence** student at Northeastern University, Boston, with a passion for solving real-world problems using **(ML)**, **Computer Vision**, and **Natural Language Processing (NLP)**. My goal is to create impactful solutions as an **ML Engineer** / **MLOps Engineer** combining my technical expertise and research-driven mindset.
 
 ---
 
