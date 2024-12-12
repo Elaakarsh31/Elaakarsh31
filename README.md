@@ -40,9 +40,9 @@ I'm a **Master’s in Artificial Intelligence** student at Northeastern Universi
 
 ## 🌐 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- ✉️ Email: yourname@example.com  
-- 🛠️ Open to collaborating on **AI/ML** and **computer vision projects** or discussing innovative ideas!  
+- [LinkedIn]((https://www.linkedin.com/in/aakarsharora/))  
+- ✉️ Email: aakarshverma330@gmail.com.com  
+- 🛠️ Open to collaborating on **AI/ML** and **Data** or discussing innovative ideas!  
 
 ---
 
