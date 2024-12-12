@@ -7,7 +7,7 @@ I'm a **Master’s in Artificial Intelligence** student at Northeastern Universi
 ## 🚀 About Me
 
 - 🌟 Skilled in building and fine-tuning **machine learning models** using frameworks like **TensorFlow**, **PyTorch**, and **HuggingFace Transformers**.
-- 💻 Experienced in implementing state-of-the-art **NLP techniques** for tasks like sentiment analysis, part-of-speech tagging, and text summarization (e.g., [Skimlit](https://github.com/yourusername/Skimlit), a project on summarizing medical abstracts).
+- 💻 Experienced in implementing state-of-the-art **NLP techniques** for tasks like sentiment analysis, part-of-speech tagging, and text summarization.
 - 👁️‍🗨️ Passionate about **Computer Vision**, with hands-on experience in projects like **Semantic Segmentation** for image analysis and classification.
 - 📊 Proficient in leveraging machine learning for **data-driven decision-making**, including binary classification projects like **Water Potability Analysis** and research on **Dementia Detection**.
 - 🧠 Eager to explore cutting-edge topics like **Vision Transformers**, **Generative AI**, and **LLMs**.
